@@ -1,4 +1,4 @@
-package dominio;
+package validacion;
 
 public class Venta{
 	private static final int cantidadMaximaDeProductosEnElCarrito=100;

@@ -1,4 +1,4 @@
-package dominio;
+package validacion;
 
 import static org.junit.Assert.*;
 

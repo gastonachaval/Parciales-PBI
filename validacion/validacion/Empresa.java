@@ -1,4 +1,4 @@
-package dominio;
+package validacion;
 
 public class Empresa {
 
